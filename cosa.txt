@@ -1,0 +1,13 @@
+Git config –global user.name “JesusCCGG”
+User.email “gchuysin@gmail.com”
+Directorio>Git init 
+
+Git branch –m master main //sobreescribir el nombre
+Git status //
+Git add . //
+Git commit –m “Inicializacion de repositorio” //maximo 50 caracteres
+Git pull origin main  //traer
+     Push //sincronizar desde
+Git push origin main
+Función flecha
+		=>
