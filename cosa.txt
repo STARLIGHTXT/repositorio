@@ -1,12 +1,25 @@
-Git config –global user.name “JesusCCGG”
-User.email “gchuysin@gmail.com”
-Directorio>Git init 
+(Directorio)>>
+git config –global user.name “JesusCCGG”
+git config –global user.email “gchuysin@gmail"
+git init 
+git branch –m master main 
+git remote add origin https://github.com/JesusCCGG/repositorio.git
+git pull origin main 
 
-Git branch –m master main //sobreescribir el nombre
+
+(Directorio)>>
+git config –global user.name “JesusCCGG”
+git config –global user.email “gchuysin@gmail. //Correp
+git init 
+git branch –m master main //sobreescribir el nombre
+git remote add origin https://github.com/JesusCCGG/repositorio.git
+git pull origin main  //traer
+
+
 Git status //
 Git add . //
 Git commit –m “Inicializacion de repositorio” //maximo 50 caracteres
-Git pull origin main  //traer
+
      Push //sincronizar desde
 Git push origin main
 Función flecha
