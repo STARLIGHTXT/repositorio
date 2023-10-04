@@ -24,3 +24,4 @@ Git commit –m “Inicializacion de repositorio” //maximo 50 caracteres
 Git push origin main
 Función flecha
 		=>
+commit desde Carlos
